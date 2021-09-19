@@ -1,2 +1,2 @@
-# Mapbox-with-Angular
+# Mapbox with Angular
 Using Mapbox with Angular
