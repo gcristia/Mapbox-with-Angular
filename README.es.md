@@ -4,11 +4,17 @@
 
 Using Mapbox with Angular
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Pre-requisitos 📋
+* Instalar todas las dependencias necesarias
+``` 
+npm install
+```
 
-## Build
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Servidor de desarrollo 🔧
+Ejecute `ng serve` para un servidor de desarrollo. Vaya a `http: // localhost: 4200 /`. La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
+
+## Construyendo el proyecto 🛠️
+Ejecute `ng build` para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio `dist /`.
 
 ### Algunas Capturas
 <p align="center" width="100%">
